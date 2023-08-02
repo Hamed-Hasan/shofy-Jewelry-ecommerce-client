@@ -1,9 +1,9 @@
-# Shofy – Full Stack eCommerce Web Application + Admin Panel
+# Shofy Jewelry – Full Stack eCommerce Web Application + Admin Panel
 
 
-![Shofy Image Banner](https://i.ibb.co/KsDDmmg/shofy-banner.png)
+![Shofy Image Banner](https://i.ibb.co/jVzQLfX/sofy-jewelry.png)
 
-Shofy is a powerful and modern full stack eCommerce web application built using Next.js, Express.js, MongoDB with Mongoose, Redux Toolkit, RTK Query, Stripe payment method, Bootstrap 5, and Sass. It includes a feature-rich admin panel for easy management and control of your online store.
+Shofy Jewelry is a powerful and modern full stack eCommerce web application built using Next.js, Express.js, MongoDB with Mongoose, Redux Toolkit, RTK Query, Stripe payment method, Bootstrap 5, and Sass. It includes a feature-rich admin panel for easy management and control of your online store.
 
 ## Features Overview
 
@@ -72,7 +72,7 @@ To get started with Shofy, follow these steps:
 1. Clone the repository:
 
    ```bash
-   https://github.com/Hamed-Hasan/shofy-ecommerce-client.git
+   https://github.com/Hamed-Hasan/shofy-Jewelry-ecommerce-client.git
    ```
 
 2. Install dependencies:
@@ -99,7 +99,7 @@ To get started with Shofy, follow these steps:
 
 ## Client Side Live Link
 
-[Shofy Client Side Live Link](https://shofy-front-end.vercel.app)
+[Shofy Client Side Live Link](https://shofy-jewelry-ecommerce.vercel.app)
 
 ## Server Side Live Link
 
@@ -107,11 +107,11 @@ To get started with Shofy, follow these steps:
 
 ## Client Side Repo
 
-[Shofy Client Side Repo](https://github.com/Hamed-Hasan/shofy-ecommerce-client.git)
+[Shofy Client Side Repo](https://github.com/Hamed-Hasan/shofy-Jewelry-ecommerce-client.git)
 
 ## Server Side Repo
 
-[Shofy Server Side Repo](https://github.com/Hamed-Hasan/shofy-ecommerce-backend.git)
+[Shofy Server Side Repo](https://github.com/Hamed-Hasan/shofy-Jewelry-ecommerce-backend.git)
 
 ## Sources and Credits
 
