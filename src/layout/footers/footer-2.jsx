@@ -35,7 +35,7 @@ const FooterTwo = () => {
                             </span>
                           </div>
                           <div className="tp-footer-contact-content">
-                            <p><a href="mailto:shofy@support.com">shofy@mail.com</a></p>
+                            <p><a href="mailto:shofy@support.com">swe.hamedhasan@gmail.com</a></p>
                           </div>
                         </div>
                         <div className="tp-footer-contact-item d-flex align-items-start">
@@ -117,7 +117,7 @@ const FooterTwo = () => {
                   <div className="col-md-6">
                     <div className="tp-footer-copyright">
                       <p>© {new Date().getFullYear()} All Rights Reserved  |  Next js Template by
-                        <Link href="/">ThemePure</Link>.
+                        <Link href="/">❤</Link>.
                       </p>
                     </div>
                   </div>

@@ -1,35 +1,43 @@
 import React from 'react';
 import SEO from '@/components/seo';
 import Wrapper from '@/layout/wrapper';
-import HeaderFour from '@/layout/headers/header-4';
-import JewelryBanner from '@/components/banner/jewelry-banner';
-import JewelryShopBanner from '@/components/shop-banner/jewelry-shop-banner';
-import JewelryAbout from '@/components/about/jewelry-about';
-import PopularProducts from '@/components/products/jewelry/popular-products';
-import ProductArea from '@/components/products/jewelry/product-area';
-import JewelryCollectionBanner from '@/components/shop-banner/jewelry-collection-banner';
-import BestSellerPrd from '@/components/products/jewelry/best-seller-prd';
-import JewelryBrands from '@/components/brand/jewelry-brands';
-import InstagramAreaFour from '@/components/instagram/instagram-area-4';
-import FeatureAreaThree from '@/components/features/feature-area-3';
-import FooterTwo from '@/layout/footers/footer-2';
+
+import Header from "@/layout/headers/header";
+import ElectronicCategory from "@/components/categories/electronic-category";
+import HomeHeroSlider from "@/components/hero-banner/home-hero-slider";
+import FeatureArea from "@/components/features/feature-area";
+import ProductArea from "@/components/products/electronics/product-area";
+import BannerArea from "@/components/banner/banner-area";
+import OfferProducts from "@/components/products/electronics/offer-products";
+import ProductGadgetArea from "@/components/products/electronics/product-gadget-area";
+import ProductBanner from "@/components/products/electronics/product-banner";
+import ProductSmArea from "@/components/products/electronics/product-sm-area";
+import NewArrivals from "@/components/products/electronics/new-arrivals";
+import BlogArea from "@/components/blog/electronic/blog-area";
+import InstagramArea from "@/components/instagram/instagram-area";
+import CtaArea from "@/components/cta/cta-area";
+import Footer from "@/layout/footers/footer";
 
 const HomeFour = () => {
   return (
     <Wrapper>
       <SEO pageTitle="Home Four" />
-      <HeaderFour/>
-      <JewelryBanner/>
-      <FeatureAreaThree />
-      <JewelryShopBanner/>
-      <JewelryAbout/>
-      <PopularProducts/>
+
+      <Header/>
+      <HomeHeroSlider/>
+      <ElectronicCategory/>
+      <FeatureArea/>
       <ProductArea/>
-      <JewelryCollectionBanner/>
-      <BestSellerPrd/>
-      <JewelryBrands/>
-      <InstagramAreaFour/>
-      <FooterTwo/>
+      <BannerArea/>
+      <OfferProducts/>
+      <ProductGadgetArea/>
+      <ProductBanner/>
+       <NewArrivals/>
+      <ProductSmArea/>
+      <BlogArea/>
+      <InstagramArea/>
+      <CtaArea/>
+      <Footer/>
     </Wrapper>
   );
 };
